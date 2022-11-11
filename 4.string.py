@@ -1,0 +1,11 @@
+mystr = "Minhaj is a good boy"
+print(mystr)
+print(mystr[3:7])
+print(mystr[0:7:2 ])
+print(len(mystr))
+print(mystr[::-1])
+print(mystr[::-2])
+print(mystr.endswith("boy"))
+print(mystr.count('b'))
+print(mystr.count('x'))
+print(mystr.find('is'))
