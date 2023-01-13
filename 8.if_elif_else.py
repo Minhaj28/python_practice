@@ -19,5 +19,3 @@ else:
 age = int(input("Enter your age: "))
 print(type(age))
 print(age)
-print(li)
-print(li)
